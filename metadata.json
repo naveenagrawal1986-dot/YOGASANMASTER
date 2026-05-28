@@ -1,0 +1,6 @@
+{
+  "name": "Yogasan Master",
+  "description": "A magnificent, futuristic AI-powered personalized yoga platform. Embark on a customizable spiritual and physical wellness journey. Created by TASHI & Shubhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
